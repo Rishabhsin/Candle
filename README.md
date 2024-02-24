@@ -1,3 +1,3 @@
 # Candle
 Jalti hui Mombatti
-![alt text](mombatti.jpeg)
+![alt text](mombatti.png)
